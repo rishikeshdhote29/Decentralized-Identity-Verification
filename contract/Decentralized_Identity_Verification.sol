@@ -4,7 +4,7 @@ pragma solidity ^0.8.19;
 /**
  * @title Decentralized Identity Verification
  * @dev A smart contract for managing decentralized identity verification with credentials
- * @author Your Name
+ 
  */
 contract Project {
 
